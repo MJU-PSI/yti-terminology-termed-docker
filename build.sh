@@ -1,3 +1,2 @@
 #!/bin/bash
-
-docker build -t yti-terminology-termed-api .
+docker build -t yti-terminology-termed-api:latest .
